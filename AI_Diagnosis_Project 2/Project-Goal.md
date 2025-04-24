@@ -1,0 +1,1 @@
+Projede amaçlanan, çeşitli hastalıklara ait klinik verileri kullanarak bir makine öğrenmesi modeli eğitmek ve bu modelin kullanımıyla erken ve doğru teşhis yapılmasını sağlamaktır. Böylece hem hasta memnuniyeti artacak hem de sağlık sistemindeki yük azalacaktır.
